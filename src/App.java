@@ -7,12 +7,14 @@ public class App {
     
     public static void main(String[] args) throws Exception {
 
+        System.out.println("ARIEL BADILLO");
         System.out.println("Agenda ordenada por Apellido - Nombre");
         ContactoController controller = new ContactoController();
         System.out.println("Agenda ordenada por Apellido - Nombre - telefono");
         controller.runTreeContactoNumeros();
-        System.out.println("Hash Code");
+        System.out.println("Agenda ordenada por Hash Code");
         controller.runTreeContactoHash();
+
         
         
         
