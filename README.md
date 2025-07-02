@@ -1,18 +1,41 @@
-## Getting Started
+# Práctica Set y HashSet
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Información General
 
-## Folder Structure
+- *Título: Práctica Set y HashSet
+- *Asignatura: Estructura de Datos
+- *Carrera: Computación
+- *Estudiante: Ariel Badillo
+- *Fecha: 01/07/2025
+- *Profesor:* Ing. Pablo Torres
+## Salida
+--ARIEL BADILLO--
+--IMPRIMIMOS USANDO HASHSET--
+-Laptop
+-Pera
+-Celular
+-Manzana
+--IMPRIMIMOS USANDO LINKEDHASHSET--
+-Laptop
+-Manzana
+-Pera
+-Celular
+--IMPRIMIMOS USANDO TREESET(menos a mayor)--
+-Celular
+-Laptop
+-Manzana
+-Pera
+--IMPRIMIMOS USANDO TREESET EMPLEANDO UN COMPARADOR SEGUN LA LONGUITUD DE LA PALABRA DE MENOR A MAYOR--    
+-Pera
+-Laptop
+-Celular
+-Celulas
+-Manzana
+--IMPRIMIMOS USANDO TREESET EMPLEANDO UN COMPARADOR SEGUN LA LONGUITUD DE LA PALABRA DE MAYOR A MENOR--    
+-Manzana
+-Celulas
+-Celular
+-Laptop
+<img width="621" alt="Captura de pantalla 2025-07-01 213211" src="https://github.com/user-attachments/assets/76ad6a62-026a-4d8d-afb6-f1fba9d0ff6d" />
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+-Pera
